@@ -1,5 +1,6 @@
 # o1-Preview GPT Chatbot
 
+
 A sleek, simple chatbot interface built with Next.js and Tailwind CSS, designed to provide a conversational experience powered by GPT. This project is a simple implementation for experimenting with chat-based interactions, ideal for developers looking to integrate and test conversational AI systems.
 
 ### **Features**
@@ -53,4 +54,7 @@ yarn dev
 ```
 
 Your chatbot will be live at `http://localhost:3000`.
+
+### **Note**
+ You need to have OpenAI key that supports o1-preview-gpt model to run this project. You can get the key from [OpenAI](https://platform.openai.com/)
 
