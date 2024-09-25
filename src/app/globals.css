@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #f9fafb;
+  font-family: 'Inter', sans-serif;
+}
+
+.markdown-content {
+  @apply text-left prose prose-sm sm:prose lg:prose-lg xl:prose-xl;
+}
+
+.markdown-content p {
+  @apply mb-2;
+}
+
+.markdown-content code {
+  @apply bg-gray-900 text-yellow-200 rounded px-2 py-1 font-mono text-sm; /* Adjusted for better visibility */
+}
+
+.markdown-content pre {
+  @apply bg-gray-900 text-yellow-200 rounded p-4 mb-2 overflow-x-auto; /* Preformatted text with better contrast */
+}
