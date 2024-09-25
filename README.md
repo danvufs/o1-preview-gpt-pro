@@ -1,6 +1,6 @@
 # o1-Preview GPT Chatbot
 
-A sleek, modern chatbot interface built with Next.js and Tailwind CSS, designed to provide a conversational experience powered by GPT. This project is a simple implementation for experimenting with chat-based interactions, ideal for developers looking to integrate and test conversational AI systems.
+A sleek, simple chatbot interface built with Next.js and Tailwind CSS, designed to provide a conversational experience powered by GPT. This project is a simple implementation for experimenting with chat-based interactions, ideal for developers looking to integrate and test conversational AI systems.
 
 ### **Features**
 - 🖼️ **Responsive UI**: Mobile-first design with smooth transitions and a sidebar for chat history management.
