@@ -54,8 +54,3 @@ yarn dev
 
 Your chatbot will be live at `http://localhost:3000`.
 
-
-
----
-
-This README is designed to help developers get up and running quickly with your project, while also making it easy to understand the customization options available. You can adjust the description based on your preferences or future project updates.
