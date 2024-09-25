@@ -56,5 +56,5 @@ yarn dev
 Your chatbot will be live at `http://localhost:3000`.
 
 ### **Note**
- You need to have OpenAI key that supports o1-preview-gpt model to run this project. You can get the key from [OpenAI](https://platform.openai.com/)
+ You need to have an OpenAI key that supports o1-preview-gpt model to run this project. You can get the key from [OpenAI](https://platform.openai.com/)
 
