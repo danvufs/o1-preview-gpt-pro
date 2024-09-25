@@ -23,7 +23,7 @@ Follow the steps below to set up and run the chatbot locally:
 ### **1. Clone the Repository**
 
 ```bash
-git clone [https://github.com/your-username/o1-preview-gpt-chatbot.git](https://github.com/danvufs/o1-preview-gpt-pro/edit/main/README.md)
+git clone [(https://github.com/danvufs/o1-preview-gpt-pro.git)]
 cd o1-preview-gpt-chatbot
 ```
 
