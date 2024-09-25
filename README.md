@@ -24,7 +24,7 @@ Follow the steps below to set up and run the chatbot locally:
 
 ```bash
 git clone [(https://github.com/danvufs/o1-preview-gpt-pro.git)]
-cd o1-preview-gpt-chatbot
+cd o1-preview-gpt-pro
 ```
 
 ### **2. Install Dependencies**
